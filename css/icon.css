@@ -1,0 +1,21 @@
+  @font-face {font-family: "iconfont";
+    src: url('iconfont.eot?t=1585492345714'); /* IE9 */
+    src: url('iconfont.eot?t=1585492345714#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAP0AAsAAAAACAwAAAOmAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqDcIM2ATYCJAMMCwgABCAFhG0HPBsCBxEVnM3IvkrgqSZ5cYcSm8TBLdXihvnKVLegnNYjHAcDzwQBuZWzwF8IvLvErBIzr1Tr2/81LbOOqjySJfToD/IPOJe2m1UTckJNyAm1N6K67XklKAmxmxEq+YXpDhO5toskbhHeAceIK9Q14nDaFJ9vWS5zbOuiLsA4oID2xmiDpgUSkLcczrwKj67TEICGu1AiN7+0FhUFMkkAYkDf3l1RUwaUmnKBisBQslJBzMcEVZoh3SbHPP/74itaVJAwkSEzK3vl9SDzg9mHIHm8cbxWl4BwPBsgrgMZCAUKiPZSRyNymAglo+kKpT7fgIJAGitsPL7AUBlW+seTQBggpaYABEJSgg9mNhsCPgQlkYDzXwcGQAU2Ancx1fbdFRRnV1NTL2dTs1Ga+8qTmjbzuKOrdvi0q7TmTJzVsXMe8tqzbW3XLGfudJZX7QrQXTyWbdP1WVvs3Jz0LTucujx+7CdP8uzZnj791afc9KzgyhOsfzxq1gmnOv3IEzdp/O7TxzXzmSfP7hXyhH3nTul6w7JTAXqdVrt481S1i5HGL7GzWLasRrY0rd9qPxZvRC5IC7fIzOv7xx+4oV97po1PE6Ulu36M2uf+xX3fqHdFGvcnGxV+j8pKDLPG+omvaHfLW2O+l1VYfLHoSPs+5pblMLEzuEr07y+qKNflOXVxj+rfNRcLi5qa379tnv+aagJOssPgizXD239lLjOeOjqxwE+OC3AaDxycmW9by6h7MZGG960fuk1ac9eqr/ZaewCO+Z/mQ2+tv9W7NffcGsWQIaKRcl1towSS+IRmz/L36R/KPMnKFGRl0QUyVn4qA8bqs5zyT3/D7+r2ehap/1VdAeDl1ocjfJ+xTjsXqHfsFPAHhS2bFENMjLKiCWyB5ZSpTeQhAZqh5L9VAlh7219l17oUBCp2MSQ64QYZFV+iQg2FCTqxMKCSAY0QBet1bAxERiidgWBTEASWRF8o6PhGUc8PsUT9RdnEPyp6KaLhkeGOTdO4jT2hzmiB8QmuGUeCmbkRlF/QfgY6JcU+7YGUuWFQ586mzxghjTEne9kaswBBcQgndB4GQQwJxR6aLDnMyUxet+xKkhmHuYY9gnQMWYDhE3CZYhHhtmeN3OcvkO0poKOahjrnAyIZt3ugkigtiGdF1KrhWi7JvNg0jAlAILEQOCEbCmgiBpLyYR5kYhKnRywxI+NWoq1Cml8VPt8OcrkGckYxLZWu9l09sj1XrQb6XA4AAA==') format('woff2'),
+    url('iconfont.woff?t=1585492345714') format('woff'),
+    url('iconfont.ttf?t=1585492345714') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url('iconfont.svg?t=1585492345714#iconfont') format('svg'); /* iOS 4.1- */
+  }
+  
+  .camera {
+    position: relative;
+    font-family: "iconfont" !important;
+    font-size: 22px;
+    cursor: pointer;
+    color: #b8b8b8;
+    top: 4px;
+    right: 2px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
