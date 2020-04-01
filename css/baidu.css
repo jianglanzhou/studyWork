@@ -37,6 +37,12 @@ body{
     color: #333;
     font-weight: 700;
 }
+.login a{
+    color: #333;
+}
+.setting a{
+    color: #333;
+}
 .nav_all a:hover{
     color: blue;
 }
